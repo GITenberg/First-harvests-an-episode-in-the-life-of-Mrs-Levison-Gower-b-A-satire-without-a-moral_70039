@@ -1,0 +1,36 @@
+_repo: First-harvests-an-episode-in-the-life-of-Mrs-Levison-Gower-b-A-satire-without-a-moral_70039
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stimson, Frederic Jesup
+    aliases:
+    - J. S. of Dale
+    - Stimson, F. J. (Frederic Jesup)
+    - Stimson, Frederic J. (Frederic Jesup)
+    - Dale, J. S. of
+    birthdate: 1855
+    deathdate: 1943
+    gutenberg_agent_id: '8370'
+    url: http://www.gutenberg.org/2009/agents/8370
+    wikipedia: https://en.wikipedia.org/wiki/Frederic_Jesup_Stimson
+description: ''
+gutenberg_issued: '2023-02-14'
+identifiers:
+  gutenberg: '70039'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t5bc3vh5p&view=1up&seq=402&skin=2021
+pgterms:marc905: 20220622163458stimson
+pgterms:marc906: '1888'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: '  $aUnited States :$bCharles Scribner’s Sons, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'First harvests: an episode in the life of Mrs. Levison Gower : $b A satire
+  without a moral'
+url: http://www.gutenberg.org/ebooks/70039
